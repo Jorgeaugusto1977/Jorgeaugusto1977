@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on securities programs
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: yo
 - ⚡ Fun fact: I'm the goldfinch
 
 <!---
